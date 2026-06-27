@@ -117,8 +117,7 @@ YOUR_USERNAME = "@MrlDi"
 FORCE_CHANNEL_ID = -1003958551428
 FORCE_GROUP_ID = -1003728099410
 FORCE_CHANNEL_LINK = 'https://t.me/+zYo2ub7wsR02YmVl'
-FORCE_GROUP_LINK = 'https://t.me/+O_idrjacT2M2Nl'
-
+FORCE_GROUP_LINK = 'https://t.me/+2MTdl0aRBVZlNzFl'
 try:
     OWNER_ID = int(OWNER_ID)
     ADMIN_ID = int(ADMIN_ID)
